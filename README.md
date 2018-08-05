@@ -1,6 +1,8 @@
 .tmux
 =====
 
+[![GuardRails badge](https://badges.production.guardrails.io/shtakai/.tmux.svg)](https://www.guardrails.io)
+
 Self-contained, pretty and versatile `.tmux.conf` configuration file.
 
 ![Screenshot](https://cloud.githubusercontent.com/assets/553208/9889393/85e50e4e-5bfa-11e5-99d8-76572350803a.gif)
